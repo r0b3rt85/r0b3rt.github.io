@@ -1,7 +1,5 @@
 // Navigation
-
-
-
+// TODO: Add navigation scripts
 
 
 // Particle.js for animated background
