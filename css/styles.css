@@ -564,3 +564,16 @@ footer {
 .divider-bottom-left .shape-fill {
   fill: var(--c-1);
 }
+
+
+/*
+TODO: Add Mobile queries as the site only works for desktop and large tablets
+
+TODO: Nav burger menu, scripting for navigation
+
+TODO: Customise scroll-snap behaviour and add micro interaction animations
+
+TODO: Add loading animations on elements as you scroll
+
+TODO: Optimise for speed and SEO
+*/
